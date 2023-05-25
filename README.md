@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IrfanEx AKA Irfan Uddin Chowdhury
 - 👀 I’m interested in Data Science, Android app development, Web Development
 - 🌱 I’m currently learning Deep learning & Machine learning
-- 💞️ I’m looking to collaborate on deep learning
+- 💞️ I’m looking to collaborate on Machine Learning and AI based Projects, Android App development and Web development Projects.
 - 📫 You can mail me on 'irfanchowdhury7@hotmail.com'
 
 <!---
